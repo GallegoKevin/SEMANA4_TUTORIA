@@ -1,3 +1,10 @@
+@font-face {
+    font-family: "Pacifico-regular";
+    src: url(./fonts/Pacifico-Regular.ttf) format(truetype);
+    
+}
+  
+
 #inicio{
     border: 3px groove red;
     color: rgb(31, 0, 80);
@@ -7,6 +14,7 @@
 .h1_header{
    text-align: center;
    text-transform: uppercase;
+   font-family:"Pacifico-regular"
 }
 s
 .nav-ul{
